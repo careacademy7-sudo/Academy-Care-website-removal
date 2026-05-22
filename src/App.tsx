@@ -338,12 +338,6 @@ const WorkshopSection = () => {
       img: "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80"
     },
     { 
-      title: "Health Screenings", 
-      tag: "Awareness Days",
-      desc: "Community campaigns for blood pressure and glucose level monitoring.",
-      img: "https://images.unsplash.com/photo-1631815587646-b85a1bb027e1?auto=format&fit=crop&q=80"
-    },
-    { 
       title: "Hygiene Campaigns", 
       tag: "Prevention",
       desc: "Educating our peers on the importance of sanitation and public health.",
